@@ -1,0 +1,34 @@
+//Translation for the unfoldingWord mobile app interface//
+
+
+cancel: Cancelar
+
+
+chapters: Capítulos
+
+
+languages: Idiomas
+
+
+next_chapter: Próximo capítulo
+
+
+ok: Confirmar
+
+
+remove_locally: Apagar localmente
+
+
+remove_this_string: Apagar seqüência
+
+
+save_locally: Salvar localmente
+
+
+save_this_language_locally_for_offline_use: Salvar idioma para uso local offline.
+
+
+save_this_string: Salvar seqüência
+
+
+select_a_language: Selecionar idioma
